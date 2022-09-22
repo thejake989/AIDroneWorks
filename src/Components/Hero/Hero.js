@@ -1,5 +1,3 @@
-import ReactPlayer from "react-player";
-
 export default function Hero() {
   return (
     <article className="flex min-h-screen sm:p-8 bg-cover sm:flex-row relative max-h-30 w-full bg-no-repeat overflow-hidden p-4 flex-col ">

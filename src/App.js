@@ -1,6 +1,8 @@
 import "./App.css";
 import Navbar from "./Components/Navbar/Navbar";
 import Hero from "./Components/Hero/Hero";
+import Footer from "./Components/Footer/Footer";
+import Showcase from "./Components/Carousel/Carousel";
 
 function App() {
   return (
@@ -9,6 +11,8 @@ function App() {
         <Navbar />
         <Hero />
       </header>
+      <Showcase />
+      <Footer />
     </div>
   );
 }
