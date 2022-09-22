@@ -2,7 +2,7 @@ export default function Showcase() {
   return (
     <span>
       <div className="carousel w-full">
-        <div id="item1" className="carousel-item w-full">
+        <div id="item1" className="carousel-item w-auto">
           <img
             src="https://scontent.fmkc1-1.fna.fbcdn.net/v/t39.30808-6/278809197_141090328480407_6385373182321793571_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=ggPoUIiunlAAX9M6pYW&_nc_ht=scontent.fmkc1-1.fna&oh=00_AT_shrvBInMoLmBlObPhUq1nxZd6tP4nfSNGn6OB2p7LbA&oe=6331886C"
             className="w-full"
