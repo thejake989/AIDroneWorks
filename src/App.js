@@ -2,7 +2,7 @@ import "./App.css";
 import Navbar from "./Components/Navbar/Navbar";
 import Hero from "./Components/Hero/Hero";
 import Footer from "./Components/Footer/Footer";
-import Showcase from "./Components/Carousel/Carousel";
+import Showcase from "./Components/Showcase/Showcase";
 
 function App() {
   return (
