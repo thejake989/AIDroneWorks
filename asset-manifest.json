@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AIDroneWorks/static/css/main.f564201f.css",
+    "main.js": "/AIDroneWorks/static/js/main.2fa86d63.js",
+    "index.html": "/AIDroneWorks/index.html",
+    "main.f564201f.css.map": "/AIDroneWorks/static/css/main.f564201f.css.map",
+    "main.2fa86d63.js.map": "/AIDroneWorks/static/js/main.2fa86d63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f564201f.css",
+    "static/js/main.2fa86d63.js"
+  ]
+}
